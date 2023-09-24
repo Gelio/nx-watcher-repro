@@ -6,6 +6,9 @@
     "watcher": "node watcher.js"
   },
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "dependencies": {
     "@nx/nx-linux-x64-gnu": "16.9.0"
   },

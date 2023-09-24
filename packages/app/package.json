@@ -4,6 +4,6 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "lib": "workspace:*"
+    "lib": "^0.0.1"
   }
 }
